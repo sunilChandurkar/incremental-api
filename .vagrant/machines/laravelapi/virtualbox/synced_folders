@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/Code/laravelapi":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/Code/laravelapi","hostpath":"C:/Users/Home/laravelapi","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Home/laravelapi","disabled":false,"__vagrantfile":true}}}
